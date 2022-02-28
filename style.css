@@ -1,0 +1,30 @@
+.heading{
+    font-size: 25px;
+    letter-spacing: 7px;
+    border-radius: 15px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(131, 8, 65);
+    font-family: 'Syne Tactile' !important;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+body{
+    background-image: url("Bg-Project.png");
+    color: black;
+    font-family: 'Akaya Telivigala';
+    font-size: 27px !important;
+}
+button{
+    background-color: rgb(131, 8, 65); 
+    color: aliceblue;
+    font-size: 18px !important;
+}
+#camera, #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
